@@ -9,7 +9,7 @@ An app designed to help users learn and practice Toki Pona, comes with a Diction
 Experience focusing on responding, analysing, migitating, and reporting on a malware attack.
 
 ### **[A.I. Project - A.I. that plays Inflexion](https://kyle-t01.github.io/#ai-project)**
-Designing an admissible heurisitc to beat A.I in a game of Inflexion, and another minimax heuristic to outperform increasingly increasingly difficult adverserial search agents within some constraints.
+Designing an admissible heurisitc to beat A.I in a game of Inflexion, and another minimax heuristic to outperform increasingly difficult adverserial search agents.
 
 ### **[IT (Capstone) Project - Recipe Storage App](https://kyle-t01.github.io/#it-project)**
 Serving as the lead architect designer, developed a personal recipe database app using the MERN stack as part of an Agile team.
