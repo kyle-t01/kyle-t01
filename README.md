@@ -8,10 +8,10 @@ An app designed to help users learn and practice Toki Pona, comes with a Diction
 ### **[Telstra Cybersecurity Virtual Experience](https://github.com/kyle-t01/telstra_cybersecurity_virtual_experience)**
 Experience focusing on responding, analysing, migitating, and reporting on a malware attack.
 
-### **[A.I. Project - A.I. that plays Inflexion](https://kyle-t01.github.io/#ai-project)
+### **[A.I. Project - A.I. that plays Inflexion](https://kyle-t01.github.io/#ai-project)**
 Designing an admissible heurisitc to beat A.I in a game of Inflexion, and another minimax heuristic to outperform increasingly increasingly difficult adverserial search agents within some constraints.
 
-### **[IT (Capstone) Project - Recipe Storage App](https://kyle-t01.github.io/#it-project)
+### **[IT (Capstone) Project - Recipe Storage App](https://kyle-t01.github.io/#it-project)**
 Serving as the lead architect designer, developed a personal recipe database app using the MERN stack as part of an agile team.
 
 
