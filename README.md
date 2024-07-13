@@ -12,7 +12,7 @@ Experience focusing on responding, analysing, migitating, and reporting on a mal
 Designing an admissible heurisitc to beat A.I in a game of Inflexion, and another minimax heuristic to outperform increasingly increasingly difficult adverserial search agents within some constraints.
 
 ### **[IT (Capstone) Project - Recipe Storage App](https://kyle-t01.github.io/#it-project)**
-Serving as the lead architect designer, developed a personal recipe database app using the MERN stack as part of an agile team.
+Serving as the lead architect designer, developed a personal recipe database app using the MERN stack as part of an Agile team.
 
 
 ## 📫 Contact
