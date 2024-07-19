@@ -16,4 +16,5 @@ Serving as the lead architect designer, developed a personal recipe database app
 
 
 ## 📫 Contact
-https://www.linkedin.com/in/kai-yao-tan-30606017a/
+**[LinkedIn Profile](https://www.linkedin.com/in/kai-yao-tan-30606017a/)**
+
