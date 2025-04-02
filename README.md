@@ -12,7 +12,7 @@ NextReco is a full-stack MERN app where you can organise and share recommendatio
 - Create recos with the help of AI
 - Organise and share Recos effortlessly with your mates, eliminating endless reposting and in group chats
 
-
+[NextReco: AI Powered Recommendations - Let's Do This Next!](https://incandescent-ganache-a6c8d3.netlify.app/)
 
 ### **[Toki Pona Custom Dictionary](https://github.com/kyle-t01/toki_pona_learn)**
 An app designed to help users learn and practice Toki Pona, comes with a Dictionary with customisable entries!
