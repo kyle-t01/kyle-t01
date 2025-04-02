@@ -3,6 +3,7 @@
 ## 🔭 Project Showcase
 ### **[Parse and Play: Play music from text!](https://github.com/kyle-t01/parse_and_play)**
 Parse and Play is an app built with AWS cloud that converts musical notation into audio playback.
+
 **Try it yourself here!**: [Parse and Play: Play music from text!](http://parse-and-play.s3-website-ap-southeast-2.amazonaws.com)
 
 ### **[NextReco: AI Powered Recommendations - Let's Do This Next!](https://github.com/kyle-t01/next_reco)**
