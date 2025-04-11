@@ -1,6 +1,10 @@
 # Hey, I'm Kyle! Welcome to my GitHub Profile!
 
 ## 🔭 Project Showcase
+### **[Multiplayer Live Quiz | A Kotlin, Spring Boot + WebSockets Project](https://github.com/kyle-t01/multiplayer)**
+
+Built a full stack real-time multiplayer quiz app using Kotlin, Spring Boot, and Web Sockets. Players join a lobby, then participate in timed quizzes with real-time score updates. The game loop and quiz timers were handled using Kotlin coroutines.
+
 ### **[Parse and Play: Play music from text!](https://github.com/kyle-t01/parse_and_play)**
 Parse and Play is an app built with AWS cloud that converts musical notation into audio playback.
 
