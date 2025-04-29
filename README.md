@@ -6,9 +6,9 @@
 Built a full stack real-time multiplayer quiz app using Kotlin, Spring Boot, and Web Sockets. Players join a lobby, then participate in timed quizzes with real-time score updates. The game loop and quiz timers were handled using Kotlin coroutines. App is containerised with **Docker** and **Docker Compose**.
 
 ### **[Parse and Play: Play music from text!](https://github.com/kyle-t01/parse_and_play)**
-Parse and Play is an app built with AWS cloud that converts musical notation into audio playback.
+Parse and Play is an app built with AWS cloud (S3, Lambda Functions, DynamoDB) that converts musical notation into audio playback. The cloud infrastructure is provisioned and maintained using Terraform (Infrastructure as Code), and deployed automatically via a GitHub Actions CI/CD pipeline.
 
-**Try it yourself here!**: [Parse and Play: Play music from text!](http://parse-and-play.s3-website-ap-southeast-2.amazonaws.com)
+**Try it yourself here!**: [Parse and Play: Play music from text!](http://parse-and-play-2.s3-website-ap-southeast-2.amazonaws.com)
 
 ### **[NextReco: AI Powered Recommendations - Let's Do This Next!](https://github.com/kyle-t01/next_reco)**
 NextReco is a full-stack MERN app where you can organise and share recommendations ("Recos") in food and activities to do with friends. Instead of manually selecting filters, NextReco integrates Generative AI allowing you to:
