@@ -3,7 +3,9 @@
 ## 🔭 Project Showcase
 ### **[Multiplayer Live Quiz | A Kotlin, Spring Boot + WebSockets Project](https://github.com/kyle-t01/multiplayer_live_quiz)**
 
-Built a full stack real-time multiplayer quiz app using Kotlin, Spring Boot, and Web Sockets. Players join a lobby, then participate in timed quizzes with real-time score updates. The game loop and quiz timers were handled using Kotlin coroutines. App is containerised with **Docker** and **Docker Compose**.
+Built a full stack real-time multiplayer quiz app using Kotlin, Spring Boot, and Web Sockets. Players join a lobby, then participate in timed quizzes with real-time score updates. The game loop and quiz timers were handled using Kotlin coroutines. App is containerised with **Docker** and **Docker Compose**, and automatically deployed via a Jenkins CI/CD pipeline to an AWS EC2 instance when code has been commit.
+
+**Try it yourself here!**: [Multiplayer Live Quiz!](http://54.79.146.28/)
 
 ### **[Parse and Play: Play music from text!](https://github.com/kyle-t01/parse_and_play)**
 Parse and Play is an app built with AWS cloud (S3, Lambda Functions, DynamoDB) that converts musical notation into audio playback. The cloud infrastructure is provisioned and maintained using Terraform (Infrastructure as Code), and deployed automatically via a GitHub Actions CI/CD pipeline.
