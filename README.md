@@ -1,9 +1,9 @@
 # Hey, I'm Kyle! Welcome to my GitHub Profile!
 
 ## 🔭 Project Showcase
-### **[Multiplayer Live Quiz | A Kotlin, Spring Boot + WebSockets Project](https://github.com/kyle-t01/multiplayer_live_quiz)**
+### **[Trivia Night! | A Kotlin, Spring Boot + WebSockets Project](https://github.com/kyle-t01/multiplayer_live_quiz)**
 
-Built a full stack real-time multiplayer quiz app using Kotlin, Spring Boot, and Web Sockets. Players join a lobby, then participate in timed quizzes with real-time score updates. The game loop and quiz timers were handled using Kotlin coroutines. App is containerised with **Docker** and **Docker Compose**, and automatically deployed via a Jenkins CI/CD pipeline to an AWS EC2 instance when code has been commit.
+Built a full stack real-time multiplayer quiz app using Kotlin, Spring Boot, and Web Sockets. Players join a lobby, then participate in timed quizzes with real-time score updates. The game loop and quiz timers were handled using Kotlin coroutines. App is containerised with **Docker** and **Docker Compose**, and automatically deployed via a Jenkins CI/CD pipeline to an AWS EC2 instance when code has been commit. It uses Redis for backend coordination, and Kubernetes (Minikube) for scaling.
 
 **Try it yourself here!**: [Multiplayer Live Quiz!](http://54.79.146.28/)
 
